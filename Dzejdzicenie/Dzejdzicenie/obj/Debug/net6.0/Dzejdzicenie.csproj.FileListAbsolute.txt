@@ -1,0 +1,30 @@
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\bin\Debug\net6.0\Dzejdzicenie.exe
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\bin\Debug\net6.0\Dzejdzicenie.deps.json
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\bin\Debug\net6.0\Dzejdzicenie.runtimeconfig.json
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\bin\Debug\net6.0\Dzejdzicenie.dll
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\bin\Debug\net6.0\Dzejdzicenie.pdb
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.csproj.AssemblyReference.cache
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.AssemblyInfoInputs.cache
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.AssemblyInfo.cs
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.csproj.CoreCompileInputs.cache
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.dll
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\refint\Dzejdzicenie.dll
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.pdb
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.genruntimeconfig.cache
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\ref\Dzejdzicenie.dll
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\bin\Debug\net6.0\Dzejdzicenie.exe
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\bin\Debug\net6.0\Dzejdzicenie.deps.json
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\bin\Debug\net6.0\Dzejdzicenie.runtimeconfig.json
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\bin\Debug\net6.0\Dzejdzicenie.dll
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\bin\Debug\net6.0\Dzejdzicenie.pdb
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.csproj.AssemblyReference.cache
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.AssemblyInfoInputs.cache
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.AssemblyInfo.cs
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.csproj.CoreCompileInputs.cache
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.dll
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\refint\Dzejdzicenie.dll
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.pdb
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\Dzejdzicenie.genruntimeconfig.cache
+D:\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\Dzejdzicenie\Dzejdzicenie\obj\Debug\net6.0\ref\Dzejdzicenie.dll
