@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\\Dzejdzicenie\\Dzejdzicenie\\Dzejdzicenie.csproj": {}
+    "C:\\Users\\jaskiewicz.wojciech\\Source\\Repos\\jasqnaspotify\\Dzejdzicenie\\Dzejdzicenie\\Dzejdzicenie.csproj": {}
   },
   "projects": {
-    "D:\\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\\Dzejdzicenie\\Dzejdzicenie\\Dzejdzicenie.csproj": {
+    "C:\\Users\\jaskiewicz.wojciech\\Source\\Repos\\jasqnaspotify\\Dzejdzicenie\\Dzejdzicenie\\Dzejdzicenie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\\Dzejdzicenie\\Dzejdzicenie\\Dzejdzicenie.csproj",
+        "projectUniqueName": "C:\\Users\\jaskiewicz.wojciech\\Source\\Repos\\jasqnaspotify\\Dzejdzicenie\\Dzejdzicenie\\Dzejdzicenie.csproj",
         "projectName": "Dzejdzicenie",
-        "projectPath": "D:\\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\\Dzejdzicenie\\Dzejdzicenie\\Dzejdzicenie.csproj",
+        "projectPath": "C:\\Users\\jaskiewicz.wojciech\\Source\\Repos\\jasqnaspotify\\Dzejdzicenie\\Dzejdzicenie\\Dzejdzicenie.csproj",
         "packagesPath": "C:\\Users\\jaskiewicz.wojciech\\.nuget\\packages\\",
-        "outputPath": "D:\\wojciech jaśkiewicz PROSZE NIE USUWACI — kopia\\Dzejdzicenie\\Dzejdzicenie\\obj\\",
+        "outputPath": "C:\\Users\\jaskiewicz.wojciech\\Source\\Repos\\jasqnaspotify\\Dzejdzicenie\\Dzejdzicenie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "\\\\zstsrv\\jaskiewicz.wojciech$$\\Application Data\\NuGet\\NuGet.Config",

@@ -9,5 +9,6 @@ internal class Program
         osoba.ZmienDane();
         Uczen uczen = new Uczen("Anna", "Se", 'k', new DateTime(1928, 12, 12), "2D");
         Console.WriteLine(uczen);
+        Console.WriteLine("zmiana1");
     }
 }
